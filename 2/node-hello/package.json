@@ -19,5 +19,6 @@
   "homepage": "https://github.com/johnpapa/node-hello#readme",
   "dependencies": {
     "express": "^4.17.1",
-  }
+  },
+  "author": "Pratik Ukey",
 }
